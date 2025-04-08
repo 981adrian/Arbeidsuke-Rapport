@@ -5,10 +5,14 @@ Arbeidsuke Rapport
 TODO
 ----
 
-- Search "git" on internet
 
 - Download Jetbrains Intellij Idea community edition: 
 https://www.jetbrains.com/idea/download/?section=windows
+
+- Search "git" on internet
+
+- Clone this repository to your local machine. See green button "code" on the right side of the page. 
+- Open the project in Intellij Idea
 
 Adrian:
 
