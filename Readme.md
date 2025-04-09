@@ -6,7 +6,7 @@ TODO
 ----
 
 
-Download Jetbrains Intellij Idea community edition: 
+- Download Jetbrains Intellij Idea community edition: 
 https://www.jetbrains.com/idea/download/?section=windows
 
 - Search "git" on internet
